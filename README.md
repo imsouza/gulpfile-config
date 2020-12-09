@@ -1,6 +1,6 @@
 # Gulpfile Config
 
-A personal gulpfile config for web applications
+A personal gulpfile configuration for web applications
 
 ## Usage
 
